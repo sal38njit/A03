@@ -12,5 +12,8 @@ Use a README to provide infromation about your project.
 To create a repository
 1. On the GitHub, press the + on the top right corner.
 2. Press "Create new repository. 
-3. Make the repository public and 
+3. Make the repository public.
+4. Create a README file.
+
+A branch is a way to work on multiple versions of a repository at the same time.
 
