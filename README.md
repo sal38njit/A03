@@ -15,5 +15,37 @@ To create a repository
 3. Make the repository public.
 4. Create a README file.
 
+GIT is a open source software distribution version control system that allows for project's code to be shared and worked on by other users.
+
 A branch is a way to work on multiple versions of a repository at the same time.
 
+Clone allows users to clone a repository.
+
+Commit is a change made to a repository. Messages can be added explaining the change.
+
+A pull request is proposing changes made to code and requesting that another individual reviews. Pull allows users to collaborate together on code. 
+
+Push allows users to sned commits to a remote repository.
+ 
+Merge allows users to insert their pull requests into a repository.
+
+Merge conflict is when users try to make changes on the same line in the same file
+
+Fetch grabs all changes made by others' branches without changing the user's branch
+
+Remote allows users to share their code.
+
+
+
+
+
+
+References
+https://help.github.com/en/articles/resolving-a-merge-conflict-on-github
+https://help.github.com/en/articles/about-merge-methods-on-github
+https://help.github.com/en/articles/pushing-commits-to-a-remote-repository
+https://help.github.com/en/articles/cloning-a-repository
+https://guides.github.com/activities/hello-world/#pr
+https://help.github.com/en/articles/getting-changes-from-a-remote-repository
+https://git-scm.com/about
+https://njit.instructure.com/courses/5652/files/126990?module_item_id=51520
